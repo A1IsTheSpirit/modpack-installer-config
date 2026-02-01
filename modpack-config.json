@@ -480,7 +480,7 @@
     {
   "name": "Reimagined Intro",
   "fileName": "reimagined-intro-1.0.0.jar",
-  "downloadUrl": https://cdn.modrinth.com/data/BsnF5g7E/versions/pBwAXYJm/reimagined-intro-1.0.0.jar,
+  "downloadUrl": "https://cdn.modrinth.com/data/BsnF5g7E/versions/pBwAXYJm/reimagined-intro-1.0.0.jar",
   "description": "Replaces Minecraft's intro with a new Mojang animation and the official Minecraft channel outro!",
   "required": false,
   "modId": "reimagined-intro",
@@ -491,6 +491,7 @@
   ]
 
 }
+
 
 
 
