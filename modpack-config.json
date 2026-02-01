@@ -477,7 +477,7 @@
       "sha1": "5df55ab2733c3bb729a9ea87fef8a4d26c2a57d1",
       "fileSize": 381672
     }
-        {
+    {
   "name": "Reimagined Intro",
   "fileName": "reimagined-intro-1.0.0.jar",
   "downloadUrl": https://cdn.modrinth.com/data/BsnF5g7E/versions/pBwAXYJm/reimagined-intro-1.0.0.jar
@@ -487,8 +487,9 @@
   "version": "1.0.0",
   "sha1": "",
   "fileSize": 477837465
-        }
+    },
   ]
 
 }
+
 
